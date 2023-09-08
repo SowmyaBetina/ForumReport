@@ -37,7 +37,7 @@ Analytics functionality provide users with comprehensive insights into their pro
 
 - Spring Framework
 - Spring Security
-- Java Servlet
+- Java
 - JPA (Java Persistence API)
 - Thymeleaf (for HTML templates)
 
