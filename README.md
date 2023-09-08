@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The Admin Interface is a critical component of our web application, and it plays a central role in managing the forum section. The interface manages posts and comments information and has the right to remove them if they don't follow guidelines.
+The Admin Interface is a critical component of our web application, and it plays a central role in managing the forum section. The interface manages posts and comments information and has the right to remove them if they don't follow guidelines. The Analtics displays the number of posts user uploaded and comments posted on user posts.
 
 ---
 ![MicrosoftTeams-image](https://github.com/SowmyaBetina/ForumReport/assets/141002741/99e77399-341f-4006-a565-e367f405c6d7)
@@ -26,6 +26,10 @@ This aspect revolves around forum content. Users can create posts to initiate di
 ### Reporting Comments
 
 To maintain a positive and respectful forum environment, users have the power to report comments that may violate guidelines or exhibit disrespectful behavior. The interface ensures these reports are processed and addressed appropriately.
+
+### Analytics
+
+Analytics functionality provide users with comprehensive insights into their profile's performance by tracking the number of posts uploaded and comments received on a daily, weekly, and monthly basis. This data helps users to gauge the reach of their profile and identify their most engaging and interacted posts, enabling informed content strategy decisions.
 
 ---
 
