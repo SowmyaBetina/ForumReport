@@ -21,7 +21,7 @@ The interface takes care of user-related tasks, making it easy for individuals t
 
 ### Post and Comment Management
 
-This aspect revolves around forum content. Users can create posts to initiate discussions, ask questions, and share their knowledge. Comments enable meaningful interactions within these posts, fostering a sense of community and collaboration.
+This aspect revolves around forum content. Users can create posts to initiate discussions and share their knowledge. Comments enable meaningful interactions within these posts, fostering a sense of community and collaboration.
 
 ### Reporting Comments
 
