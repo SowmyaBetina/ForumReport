@@ -7,6 +7,11 @@
 The Admin Interface is a critical component of our web application, and it plays a central role in managing the forum section. The interface manages posts and comments information and has the right to remove them if they don't follow guidelines.
 
 ---
+![MicrosoftTeams-image](https://github.com/SowmyaBetina/ForumReport/assets/141002741/99e77399-341f-4006-a565-e367f405c6d7)
+
+<img width="478" alt="flowchart" src="https://github.com/SowmyaBetina/ForumReport/assets/141002741/2db5d277-47dc-4cc0-add0-684bfda0ab40">
+
+
 
 ## Functionality
 
