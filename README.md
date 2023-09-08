@@ -27,6 +27,12 @@ This aspect revolves around forum content. Users can create posts to initiate di
 
 To maintain a positive and respectful forum environment, users have the power to report comments that may violate guidelines or exhibit disrespectful behavior. The interface ensures these reports are processed and addressed appropriately.
 
+Reporting comments - 
+/forum/post/{postId}/comment/{commentId}/report (POST): Allows users to report comments that violate community guidelines. Reports are stored for review.
+
+Viewing report -
+/forum/post/{postId}/comment/{commentId}/report/details (GET): Allows administrators to view details about reported comments and reported commentId.
+
 ### Analytics
 
 Analytics functionality provide users with comprehensive insights into their profile's performance by tracking the number of posts uploaded and comments received on a daily, weekly, and monthly basis. This data helps users to gauge the reach of their profile and identify their most engaging and interacted posts, enabling informed content strategy decisions.
@@ -40,6 +46,7 @@ Analytics functionality provide users with comprehensive insights into their pro
 - Java
 - JPA (Java Persistence API)
 - Thymeleaf (for HTML templates)
+- MySql (DBeaver)
 
 ---
 
